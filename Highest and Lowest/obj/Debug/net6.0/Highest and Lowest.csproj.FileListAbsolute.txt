@@ -1,0 +1,15 @@
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\bin\Debug\net6.0\Highest and Lowest.exe
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\bin\Debug\net6.0\Highest and Lowest.deps.json
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\bin\Debug\net6.0\Highest and Lowest.runtimeconfig.json
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\bin\Debug\net6.0\Highest and Lowest.dll
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\bin\Debug\net6.0\Highest and Lowest.pdb
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.csproj.AssemblyReference.cache
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.AssemblyInfoInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.AssemblyInfo.cs
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.csproj.CoreCompileInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.dll
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\refint\Highest and Lowest.dll
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.pdb
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\Highest and Lowest.genruntimeconfig.cache
+C:\Users\chunchia.liang61\RiderProjects\Highest and Lowest\Highest and Lowest\obj\Debug\net6.0\ref\Highest and Lowest.dll
