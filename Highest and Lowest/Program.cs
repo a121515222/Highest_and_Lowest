@@ -2,13 +2,13 @@
 
 namespace Highest_and_Lowest
 {
-   static class HighsetAndLowest
+  public static class HighsetAndLowest
     {
         public static string HighAndLow(string info)
         {
-            string [] splitData = info.Split(" ");
-            string max = "";
-            string min= "";
+            var splitData = info.Split(" ",StringSplitOptions.RemoveEmptyEntries);
+            var max = "";
+            var min= "";
             foreach (var data in splitData)
             {
                 if (max.Length == 0 && min.Length == 0)
